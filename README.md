@@ -1,5 +1,11 @@
 # Abbildungsbeschriftung
 
+## Beschreibung
+
+Dieses Tool ist dafür gedacht, Beschriftungen der Abbildungen aus Skripten blindengerecht umzusetzen.
+Wenn die Ergebnisse des Tools in eine Word-Datei mit Standard-Einstellungen kopiert wird, sowie die Seite auf eine Größe von ``97*210mm`` (1/3 DIN A4) mit Seitenrändern von je ``12,7mm`` eingestellt ist, wird für jede Abbildung eine neue Seite angefangen.
+Sofern diese gedruckt werden sollen, können jeweils drei Beschritungen zusammengefasst werden, da diese zusammen genau DIN A4 entsprechen.
+
 ## Ausführung
 
 Innerhalb eclipse muss die main-Methode der Klasse ``Input.Java`` ausgeführt werden.
